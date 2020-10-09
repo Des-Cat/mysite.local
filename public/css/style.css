@@ -1,0 +1,16 @@
+#header {
+    background-color: salmon;
+    height: 200px;
+}
+#nav {
+    background-color: olivedrab;
+    height: 100px;
+}
+#main {
+    background-color:skyblue;
+    height: 600px;
+}
+#footer {
+    background-color: crimson;
+    height: 200px;
+}
