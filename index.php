@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en,ru">
 <head>
     <meta charset="UTF-8">
     <title>Nix Education Beginner</title>

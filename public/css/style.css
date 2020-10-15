@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: salmon;
 }
 #header {
     background-color: salmon;
@@ -20,7 +20,7 @@ body{
 #table {
     width: 500px;
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 40%;
 }
 table{
@@ -28,5 +28,5 @@ table{
     border-collapse: collapse;
 }
 td{
-   border: black  2px solid;
+   border: black  4px solid;
 }
