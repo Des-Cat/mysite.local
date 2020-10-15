@@ -1,6 +1,9 @@
+body{
+    background-color: aqua;
+}
 #header {
     background-color: salmon;
-    height: 200px;
+    height: 150px;
 }
 #nav {
     background-color: olivedrab;
@@ -12,5 +15,18 @@
 }
 #footer {
     background-color: crimson;
-    height: 200px;
+    height: 150px;
+}
+#table {
+    width: 500px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+table{
+    background-color: white;
+    border-collapse: collapse;
+}
+td{
+   border: black  2px solid;
 }
